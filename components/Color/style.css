@@ -1,0 +1,13 @@
+
+
+.hc{
+    margin: 20px;
+    width: 100px    ;
+    height: 100px;
+    color: red;
+    border: 1px solid black;
+    border-radius: 50%;
+    display: flex;
+
+
+}

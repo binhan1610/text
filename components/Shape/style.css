@@ -1,0 +1,8 @@
+.shape{
+    margin: 20px;
+    width: 100px;
+    height: 100px;
+    color: red;
+    border: 1px solid black;
+    background-color: black;
+}
